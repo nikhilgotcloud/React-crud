@@ -1,0 +1,32 @@
+{
+  "employees": [
+  {
+    "id": "1",
+    "name": "Karanjeet",
+    "email": "karan@gmail.com",
+    "address": "89 phase 7, mohali",
+    "phone": "83464388"
+  },
+  {
+    "id": "2",
+    "name": "Taranjeet",
+    "email": "taran@gmail.com",
+    "address": "321 , phase 8 , sector 70, mohali",
+    "phone": "9876543210"  
+  },
+  {
+    "id": "3",
+    "name": "Aman",
+    "email": "Aman@gmail.com",
+    "address": "211, phase 5 . mohali",
+    "phone": "93977943"
+  },
+  {
+    "id": "4",
+    "name": "nikhil",
+    "email": "nikhil@gmail.com",
+    "address": "212, sector 79, mohali",
+    "phone": "4743493489"
+  }
+]
+}
